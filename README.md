@@ -9,6 +9,7 @@ The goal of this project was to analyize player performance in the Denver vs. Go
 1. Clone the repo.
 1. Open IDLE.
 1. Use IDLE to open any of the .py files in this repo.
+1. Select Run Module from the Run menu.
 1. Revel in the glory of the stats and graphs!
 
 ## For more info:
