@@ -8,9 +8,9 @@ interactive(True)
 # Get the CSV files
 jams=pd.read_csv("stat_exports/jams.csv")
 penalties=pd.read_csv("stat_exports/penalties.csv")
-bouts=pd.read_csv("stat_exports/bouts.csv")
+# bouts=pd.read_csv("stat_exports/bouts.csv")
 skater_jams=pd.read_csv("stat_exports/skater_jams.csv")
-team_bouts=pd.read_csv("stat_exports/team_bouts.csv")
+# team_bouts=pd.read_csv("stat_exports/team_bouts.csv")
 teams=pd.read_csv("stat_exports/teams.csv")
 skaters=pd.read_csv("stat_exports/skaters.csv")
 
